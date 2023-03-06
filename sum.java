@@ -4,11 +4,9 @@ public class Sum{
         int a = 4;
     int b = 8;
 int c=5;
-
-    System.out.println("This is a sum"+ (a+b+c));
-    }
-
-/*helllo*/x    
+int d=4;
+    System.out.println("This is a sum"+ (a+b+c+d));
+    }    
 
 
 }
