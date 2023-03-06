@@ -3,8 +3,9 @@ public class Sum{
     public static void main(String[] args){
         int a = 4;
     int b = 8;
+int c=5;
 
-    System.out.println("This is a sum"+ (a+b));
+    System.out.println("This is a sum"+ (a+b+c));
     }
 
     
